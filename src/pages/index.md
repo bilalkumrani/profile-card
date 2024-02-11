@@ -7,7 +7,7 @@ bannerType: "color"
 # either provide a color inside quotes or a path to an image (external links are supported)
 banner: "#d0cdc3"
 # User avatar to display, can be external link or a path to an image from public folder
-avatar: "https://cdn.discordapp.com/avatars/967600122898817056/f95dc90bff1f35ab4657741934b1c514?size=1024"
+avatar: "https://cdn.discordapp.com/avatars/967600122898817056/f95dc90bff1f35ab4657741934b1c514?size=300"
 
 # Discord custom nickname set above
 displayName: "Bilal Umrani"
