@@ -62,4 +62,4 @@ connections:
 
 <!-- Your About Me section -->
 
-Greetings, I'm [Bilal Umrani](https://bilalumrani.com), CEO and Founder of Enumsol. I am passionate about fostering growth and enhancing creativity and kindness in my environment. Let's connect over coffee to discuss new opportunities and possibilities. I'm always eager to meet new people and explore fresh perspectives.
+Greetings, I'm [Bilal Umrani](https://bilalumrani.com), CEO and Founder of [Enumsol](https://enumsol.com). I am passionate about fostering growth and enhancing creativity and kindness in my environment. Let's connect over coffee to discuss new opportunities and possibilities. I'm always eager to meet new people and explore fresh perspectives.
