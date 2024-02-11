@@ -56,7 +56,7 @@ connections:
     verified: true
   upwork:
     username: "bilalkumrani"
-    url: "https://www.upwork.com/freelancers/bilalkumrani"
+    url: "https://www.upwork.com/freelancers/bilalumrani"
     verified: true
 ---
 
