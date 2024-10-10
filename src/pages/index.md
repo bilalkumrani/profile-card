@@ -5,14 +5,15 @@ layout: "../layouts/Layout.astro"
 bannerType: "color"
 # Banner color or an image depending on the banner type set above,
 # either provide a color inside quotes or a path to an image (external links are supported)
-banner: "#d0cdc3"
+banner: "#cbfc00"
+# banner: "https://media.licdn.com/dms/image/v2/D4D16AQEx2BO8l0-iew/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728463940838?e=1733961600&v=beta&t=DCLEH6JRuHo6FbquUGCiEtqSvHwuYr2bBxHb3R9Rbic"
 # User avatar to display, can be external link or a path to an image from public folder
-avatar: "https://cdn.discordapp.com/avatars/967600122898817056/f95dc90bff1f35ab4657741934b1c514?size=300"
+avatar: "https://media.licdn.com/dms/image/v2/D4D03AQFKGliR4R_Q8Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1728575653815?e=1733961600&v=beta&t=KSCQqxuWN0lMGYLWj-1ymTpzFtN3lux7jSgW3Aq2mVE"
 
 # Discord custom nickname set above
 displayName: "Bilal Umrani"
 # Username on discord, follows the case you set, won't track your Discord account e.g. "example#123" or "example"
-username: "bilalumrani"
+username: "bilalkumrani"
 # Discord status, can be "online-mobile", "online", "idle", "do-not-disturb", "invisible" or "streaming"
 status: "online"
 # Badges next to avatar, some badges need metadata such as "date" or "username"
@@ -27,8 +28,8 @@ badges:
   #   username: "bilalscripts"
 # Roles in profile: Key name stands for the label, value is the color
 roles:
-  "CEO ENUMSOL": "#9b2335"
-  "Fullstack Web Developer": "#006f72"
+  "CEO ENUMSOL": "#cbfc00"
+  "Full-Stack Web Developer": "#006f72"
   "FOSS Contributor": "#ffecc1"
 # Connections, all connections are available at public/connections folder
 # "verified" key is optional but indicates verified icon

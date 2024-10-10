@@ -59,7 +59,7 @@ const { type, username, url, verified = false } = Astro.props;
       {verified && <Verified />}
     </Flex>
   </Flex>
-  {url && <Link href={url} />}
+  {url && <Link target="_blank" rel="noopener noreferrer" href={url} />}
 </Flex>
 <style lang="sass">
   @use "src/styles/utils/conversion" as *
