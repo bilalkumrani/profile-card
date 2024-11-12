@@ -8,7 +8,8 @@ bannerType: "color"
 banner: "#cbfc00"
 # banner: "https://media.licdn.com/dms/image/v2/D4D16AQEx2BO8l0-iew/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728463940838?e=1733961600&v=beta&t=DCLEH6JRuHo6FbquUGCiEtqSvHwuYr2bBxHb3R9Rbic"
 # User avatar to display, can be external link or a path to an image from public folder
-avatar: "https://drive.google.com/uc?export=download&id=1ScFmMwjq4f7xrrzrdWbNSQE8TEfyjawY"
+avatar: "https://drive.google.com/uc?export=view&id=1ScFmMwjq4f7xrrzrdWbNSQE8TEfyjawY"
+
 
 # Discord custom nickname set above
 displayName: "Bilal Umrani"
